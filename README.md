@@ -11,6 +11,15 @@ Relational databases play an important role in both academic research and data-d
 * Download the [Chinook SQLite database](https://github.com/lerocha/chinook-database/raw/master/ChinookDatabase/DataSources/Chinook_Sqlite.sqlite) by [Luis Rocha](https://github.com/lerocha)
 * Download the ["Portal all" database](https://ndownloader.figshare.com/files/11188550) from [Data Carpentry for Biologists](https://datacarpentry.org/semester-biology/materials/datasets/)
 
+## Files in this repository
+|Name|Description|
+|--|--|
+|[example_queries_chinook.sql](example_queries_chinook.sql)|Example queries with notes, which can be run on the Chinook database|
+|[LICENSE.md](LICENSE.md)|License for reusing these materials|
+|[querying-dbs-with-sql_20200129.pdf](querying-dbs-with-sql_20200129.pdf)|Slides in PDF format|
+|[querying-dbs-with-sql_20200129.pptx](querying-dbs-with-sql_20200129.pptx)|Slides in PPTX format|
+|[README.md](README.md)|This file|
+
 ## Links
 * [Language reference](https://sqlite.org/lang.html) ("SQL as understood by SQLite")
 * [SQLite data types](https://www.sqlite.org/datatype3.html)
